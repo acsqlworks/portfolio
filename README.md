@@ -3,8 +3,8 @@
 ### Data Analyst | US Navy Veteran | Telecommunications Specialist
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](your-linkedin-url)
-[![Email](https://img.shields.io/badge/Email-acsqlworks%40gmail.com-red)](mailto:allenclose17@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Houston%20TX%2C%20VA-green)]()
+[![Email](https://img.shields.io/badge/Email-acsqlworks%40gmail.com-red)](mailto:acsqlworks@gmail.com)
+[![Location](https://img.shields.io/badge/Location-Houston%2C%20TX-green)]()
 
 ---
 
@@ -176,10 +176,10 @@ Gaming industry analysis combining sales data with game metadata:
 
 I'm actively seeking opportunities in data analytics and business intelligence. Whether you're looking for a dedicated analyst or want to collaborate on a project, I'd love to hear from you!
 
-- 📧 Email: [allenclose17@gmail.com](mailto:allenclose17@gmail.com)
+- 📧 Email: [acsqlworks@gmail.com](mailto:acsqlworks@gmail.com)
 - 💼 LinkedIn: [Your LinkedIn Profile](your-linkedin-url)
 - 📱 Phone: (757) 364-8861
-- 📍 Location: Virginia Beach, VA (Open to relocation)
+- 📍 Location: Houston, TX (Open to relocation)
 
 ---
 
