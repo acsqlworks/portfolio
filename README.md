@@ -178,7 +178,7 @@ I'm actively seeking opportunities in data analytics and business intelligence. 
 
 - 📧 Email: [acsqlworks@gmail.com](mailto:acsqlworks@gmail.com)
 - 💼 LinkedIn: [Your LinkedIn Profile](your-linkedin-url)
-- 📱 Phone: (757) 364-8861
+- 📱 Phone: (704) 207-1896
 - 📍 Location: Houston, TX (Open to relocation)
 
 ---
