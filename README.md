@@ -3,8 +3,8 @@
 ### Data Analyst | US Navy Veteran | Telecommunications Specialist
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](your-linkedin-url)
-[![Email](https://img.shields.io/badge/Email-allenclose17%40gmail.com-red)](mailto:allenclose17@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Virginia%20Beach%2C%20VA-green)]()
+[![Email](https://img.shields.io/badge/Email-acsqlworks%40gmail.com-red)](mailto:allenclose17@gmail.com)
+[![Location](https://img.shields.io/badge/Location-Houston%20TX%2C%20VA-green)]()
 
 ---
 
