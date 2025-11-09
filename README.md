@@ -1,4 +1,4 @@
-# Allen Close
+# DATA FREELANCER
 
 ### Data Analyst | US Navy Veteran | Telecommunications Specialist
 
