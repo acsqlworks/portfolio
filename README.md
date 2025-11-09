@@ -154,14 +154,6 @@ Gaming industry analysis combining sales data with game metadata:
 
 ---
 
-## 📈 GitHub Stats
-
-![Allen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=acsqlworks&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=acsqlworks&layout=compact&theme=radical)
-
----
-
 ## 🎯 Current Focus
 
 - 📚 Mastering SQL for complex data querying and database management
