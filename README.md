@@ -169,7 +169,7 @@ Gaming industry analysis combining sales data with game metadata:
 I'm actively seeking opportunities in data analytics and business intelligence. Whether you're looking for a dedicated analyst or want to collaborate on a project, I'd love to hear from you!
 
 - 📧 Email: [acsqlworks@gmail.com](mailto:acsqlworks@gmail.com)
-- 💼 LinkedIn: [Your LinkedIn Profile](your-linkedin-url)
+- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/allen-close-6a77ab391/)
 - 📱 Phone: (704) 207-1896
 - 📍 Location: Houston, TX (Open to relocation)
 
