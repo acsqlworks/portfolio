@@ -86,7 +86,7 @@ My military and telecommunications background has equipped me with:
 
 ### 🔹 [Smartprix Mobile Phones - Data Cleaning & ETL Pipeline](https://github.com/acsqlworks/Smartprix-Mobile-Phones-Dataset-Comprehensive-Data-Cleaning-Project)
 **Tech Stack:** SQL Server | T-SQL | Data Engineering | ETL  
-**Dataset:** 10,000+ mobile phones with 120+ specifications | [Kaggle Dataset](https://www.kaggle.com/datasets/yourusername/cleaned-smartprix-mobiles)
+**Dataset:** 10,000+ mobile phones with 120+ specifications | [Kaggle Dataset](https://www.kaggle.com/datasets/allenclose/cleaned-and-analyzed-phone-dataset-from-smartprix)
 
 Professional-grade data cleaning project transforming raw, messy mobile phone data into analysis-ready format:
 - **Comprehensive Data Cleaning**: 120+ columns processed with proper data types, extracted values, and standardized formats
@@ -114,7 +114,7 @@ Professional-grade data cleaning project transforming raw, messy mobile phone da
 
 ### 🔹 [Amazon Diwali Sales 2025 Analysis](https://github.com/acsqlworks/Amazon-Sales-2025-Analysis-SQL)
 **Tech Stack:** SQL | Microsoft SQL Server Management Studio  
-**Dataset:** 15,000 synthetic e-commerce transactions across Indian states
+**Dataset:** 15,000 synthetic e-commerce transactions across Indian states [Kaggle Dataset](https://www.kaggle.com/datasets/allenclose/amazon-india-sales-2025-analysis)
 
 Comprehensive SQL analysis of Amazon India's Diwali shopping season featuring:
 - **15 Complex Business Queries** using CTEs, window functions, and advanced aggregations
