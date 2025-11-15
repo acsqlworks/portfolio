@@ -2,7 +2,7 @@
 
 ### Data Analyst | US Navy Veteran | Telecommunications Specialist
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](your-linkedin-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/allen-close-6a77ab391/)
 [![Email](https://img.shields.io/badge/Email-acsqlworks%40gmail.com-red)](mailto:acsqlworks@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Houston%2C%20TX-green)]()
 
@@ -83,6 +83,34 @@ My military and telecommunications background has equipped me with:
 ---
 
 ## 📊 Featured Projects
+
+### 🔹 [Smartprix Mobile Phones - Data Cleaning & ETL Pipeline](https://github.com/acsqlworks/smartprix-mobile-data-cleaning)
+**Tech Stack:** SQL Server | T-SQL | Data Engineering | ETL  
+**Dataset:** 10,000+ mobile phones with 120+ specifications | [Kaggle Dataset](https://www.kaggle.com/datasets/yourusername/cleaned-smartprix-mobiles)
+
+Professional-grade data cleaning project transforming raw, messy mobile phone data into analysis-ready format:
+- **Comprehensive Data Cleaning**: 120+ columns processed with proper data types, extracted values, and standardized formats
+- **Advanced SQL Techniques**: TRY_CONVERT error handling, nested REPLACE functions, complex CASE statements, CTEs
+- **Numeric Extractions**: Intelligent parsing of weights, display sizes, battery capacities, RAM/Storage from text
+- **Boolean Standardization**: Converted 20+ BIT fields to human-readable Yes/No values
+- **Calculated Fields**: Derived original prices from current prices and discounts
+- **Performance Optimization**: 5 strategic indexes created for 50-100x faster queries
+- **Production-Ready Output**: 3 analytical views for common business queries
+
+**Data Engineering Highlights:**
+- Unit standardization (MB→GB, various weight formats→grams)
+- Multi-level text cleaning with whitespace removal
+- Date parsing with month name conversion
+- Benchmark score cleaning (removed commas, standardized formats)
+- 95%+ conversion success rate across all numeric fields
+
+**Documentation Excellence:**
+- Complete data dictionary (120+ columns documented)
+- Detailed transformation guide with before/after examples
+- Full methodology document with quality metrics
+- Reusable SQL patterns for future ETL projects
+
+---
 
 ### 🔹 [Amazon Diwali Sales 2025 Analysis](https://github.com/acsqlworks/Amazon-Sales-2025-Analysis-SQL)
 **Tech Stack:** SQL | Microsoft SQL Server Management Studio  
@@ -169,7 +197,7 @@ Gaming industry analysis combining sales data with game metadata:
 I'm actively seeking opportunities in data analytics and business intelligence. Whether you're looking for a dedicated analyst or want to collaborate on a project, I'd love to hear from you!
 
 - 📧 Email: [acsqlworks@gmail.com](mailto:acsqlworks@gmail.com)
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/allen-close-6a77ab391/)
+- 💼 LinkedIn: [Allen Close](https://www.linkedin.com/in/allen-close-6a77ab391/)
 - 📱 Phone: (704) 207-1896
 - 📍 Location: Houston, TX (Open to relocation)
 
