@@ -84,7 +84,7 @@ My military and telecommunications background has equipped me with:
 
 ## 📊 Featured Projects
 
-### 🔹 [Smartprix Mobile Phones - Data Cleaning & ETL Pipeline](https://github.com/acsqlworks/smartprix-mobile-data-cleaning)
+### 🔹 [Smartprix Mobile Phones - Data Cleaning & ETL Pipeline](https://github.com/acsqlworks/Smartprix-Mobile-Phones-Dataset-Comprehensive-Data-Cleaning-Project)
 **Tech Stack:** SQL Server | T-SQL | Data Engineering | ETL  
 **Dataset:** 10,000+ mobile phones with 120+ specifications | [Kaggle Dataset](https://www.kaggle.com/datasets/yourusername/cleaned-smartprix-mobiles)
 
